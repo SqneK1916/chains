@@ -6161,6 +6161,19 @@
   "faucets": ["https://sepoliafaucet.com/"],
   "infoURL": "https://docs.mode.network/"
 }, {
+  "name": "Fenine Testnet",
+  "chainId": 920,
+  "shortName": "FEN",
+  "networkId": 920,
+  "nativeCurrency": {
+    "name": "Fenine",
+    "symbol": "FEN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.fene.app"],
+  "faucets": [],
+  "infoURL": "https://fene.app"
+}, {
   "name": "Yidark Chain Mainnet",
   "chainId": 927,
   "shortName": "ydk",
@@ -12986,6 +12999,32 @@
   "faucets": ["https://testnet-explorer.ikchain.net"],
   "infoURL": "https://ikchain.net"
 }, {
+  "name": "TPIX Chain",
+  "chainId": 4289,
+  "shortName": "tpix",
+  "networkId": 4289,
+  "nativeCurrency": {
+    "name": "Thaiprompt Index",
+    "symbol": "TPIX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.tpix.online"],
+  "faucets": [],
+  "infoURL": "https://tpix.online"
+}, {
+  "name": "TPIX Chain Testnet",
+  "chainId": 4290,
+  "shortName": "tpix-testnet",
+  "networkId": 4290,
+  "nativeCurrency": {
+    "name": "Thaiprompt Index",
+    "symbol": "tTPIX",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://tpix.online"
+}, {
   "name": "Echos Chain",
   "chainId": 4321,
   "shortName": "echos",
@@ -13726,6 +13765,19 @@
   "rpc": ["https://mainnet.eraswap.network", "https://rpc-mumbai.mainnet.eraswap.network"],
   "faucets": [],
   "infoURL": "https://eraswap.info/"
+}, {
+  "name": "LiterMark Chain",
+  "chainId": 5232,
+  "shortName": "lmk",
+  "networkId": 5232,
+  "nativeCurrency": {
+    "name": "LiterMark",
+    "symbol": "LMK",
+    "decimals": 18
+  },
+  "rpc": ["https://litermark.org/rpc"],
+  "faucets": [],
+  "infoURL": "https://litermark.com"
 }, {
   "name": "Humanode Mainnet",
   "chainId": 5234,
@@ -19794,9 +19846,9 @@
     "symbol": "FREE",
     "decimals": 18
   },
-  "rpc": ["https://mainnet.1money.network"],
+  "rpc": ["https://rpc.mainnet.1money.network", "https://rpc1.mainnet.1money.network", "https://rpc2.mainnet.1money.network", "https://rpc3.mainnet.1money.network"],
   "faucets": [],
-  "infoURL": "https://1money.com"
+  "infoURL": "https://www.1moneynetwork.com"
 }, {
   "name": "DCpay Mainnet",
   "chainId": 21223,
@@ -29531,9 +29583,9 @@
     "symbol": "FREE",
     "decimals": 18
   },
-  "rpc": ["https://testnet.1money.network"],
-  "faucets": [],
-  "infoURL": "https://1money.com"
+  "rpc": ["https://rpc.testnet.1money.network", "https://rpc1.testnet.1money.network", "https://rpc2.testnet.1money.network", "https://rpc3.testnet.1money.network"],
+  "faucets": ["https://www.1moneynetwork.com/faucet"],
+  "infoURL": "https://www.1moneynetwork.com"
 }, {
   "name": "Sharecle Mainnet",
   "chainId": 1234567,

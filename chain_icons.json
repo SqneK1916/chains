@@ -735,6 +735,14 @@
     "format": "png"
   }]
 }, {
+  "name": "1moneynetwork",
+  "icons": [{
+    "url": "ipfs://bafkreiawyyp4hhmsipxthdzgvijess7c5jmytqgztq47kaaaqgkt3yx5km",
+    "width": 252,
+    "height": 252,
+    "format": "svg"
+  }]
+}, {
   "name": "ydk",
   "icons": [{
     "url": "ipfs://QmdbFGqrpiLQGtAeUAyeS2NBvACfgrchEF466ni5q36fuZ",
@@ -2679,6 +2687,14 @@
     "format": "png"
   }]
 }, {
+  "name": "litermark",
+  "icons": [{
+    "url": "ipfs://QmRscdcy6ebGXxZQeHsvEhFNmazgR7SuUDZd8NSYRaD5ux",
+    "width": 1258,
+    "height": 1259,
+    "format": "png"
+  }]
+}, {
   "name": "humans",
   "icons": [{
     "url": "ipfs://QmU83haX3TNifDDjBx6RP6ByqES1Kg9VqeJC87X9ipKyCS",
@@ -3703,6 +3719,14 @@
     "format": "png"
   }]
 }, {
+  "name": "fenine",
+  "icons": [{
+    "url": "ipfs://bafybeihcjllmkljni4jvveg4evgizmknisy4jyy3t3teuyzx6vypobrygm",
+    "width": 150,
+    "height": 150,
+    "format": "svg"
+  }]
+}, {
   "name": "vecno",
   "icons": [{
     "url": "ipfs://QmXPmM55AvkpEmqCvfP9YNQV1xsRdsPZDzwp6QHVThw6Wv",
@@ -4714,6 +4738,14 @@
   "name": "nom",
   "icons": [{
     "url": "ipfs://QmVfJBGe7JpKJhG8hrSMU42RxhCSQ3ga3NSArA9vEFqF4C",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "tpix",
+  "icons": [{
+    "url": "ipfs://bafkreihdwdcefgh4dqkjv67uzcmw7ojee6xedzdetojuzjevtenomqspsm",
     "width": 512,
     "height": 512,
     "format": "png"
