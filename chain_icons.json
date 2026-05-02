@@ -15,6 +15,14 @@
     "format": "png"
   }]
 }, {
+  "name": "oxin",
+  "icons": [{
+    "url": "ipfs://bafkreibppuijktkbw75jrng6w5xbrvvh6w5ppd4msriiruibmpk25pndmi",
+    "width": 1500,
+    "height": 1500,
+    "format": "png"
+  }]
+}, {
   "name": "near",
   "icons": [{
     "url": "ipfs://bafkreiayxzdbu3e5ahri3ooieg6k6pjxrwkrkc2x5cnyadqeu5zbmaummq",
@@ -1615,6 +1623,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gensyn-testnet",
+  "icons": [{
+    "url": "ipfs://QmbJeQxqoTuHTitxLhn1JEtUq82Kp8SfJaUvMtLYku6NBV",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "meld",
   "icons": [{
     "url": "ipfs://QmRhB4AbjDrhvwfSAQi2JvKirFiDWxzJvKEvG8S8AdDdED",
@@ -1652,6 +1668,14 @@
     "url": "ipfs://QmY6AkNb5TYrDbM5M7YpSM8X3aYn2LcPXeLXz6F7WoB27r",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "plastichero",
+  "icons": [{
+    "url": "ipfs://QmVShDPGLX1C6SrHGsnHrvNL1DmSaXAtXHwYDYSrrMomeL",
+    "width": 250,
+    "height": 250,
     "format": "png"
   }]
 }, {
@@ -2017,7 +2041,7 @@
 }, {
   "name": "bac",
   "icons": [{
-    "url": "ipfs://bafkreicq4mloik6hz5ypyfjhgesrmqdzlvbnu7eitwgciq2eof64grc7da",
+    "url": "ipfs://bafkreia4ksufgnm6dnur5cnfzqrirfcqrvixgw72lzbxutsw6zqggmjbhy",
     "width": 512,
     "height": 512,
     "format": "png"
@@ -2133,6 +2157,14 @@
     "width": 468,
     "height": 468,
     "format": "png"
+  }]
+}, {
+  "name": "rubychain",
+  "icons": [{
+    "url": "ipfs://bafkreickc2hgej3bjhlj24k7dqupsrki3cp7xpzrj25s3g46iltteufi7i",
+    "width": 256,
+    "height": 256,
+    "format": "svg"
   }]
 }, {
   "name": "xr",
@@ -2271,6 +2303,14 @@
     "format": "png"
   }]
 }, {
+  "name": "coina",
+  "icons": [{
+    "url": "ipfs://bafkreib5ecre4o6g723mboizw3udt4xrle4pgsqgoqcyvoompko353a2hq",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  }]
+}, {
   "name": "carbon",
   "icons": [{
     "url": "ipfs://QmQUHqi1gyuTuKmJQHqt9EyhN1FPmmmLNUK8u93nMGrxAy",
@@ -2340,6 +2380,14 @@
     "url": "ipfs://QmbENgHTymTUUArX5MZ2XXH69WGenirU3oamkRD448hYdz",
     "width": 282,
     "height": 250,
+    "format": "png"
+  }]
+}, {
+  "name": "streamchain",
+  "icons": [{
+    "url": "ipfs://QmXF8op3yGfmMdvMXfi297f34CCQPJ2utqZbis7ygu3fc2",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -5760,6 +5808,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "turkchain",
+  "icons": [{
+    "url": "ipfs://bafybeignknf5fhajwrp5f53dxnbgydi22sosokw3hx2nq2rfus7hnbtgui",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "rufus",
   "icons": [{
     "url": "ipfs://bafkreihcbx557v446mhd7z4kfogqy3f3i5zdx2fsc5udg2obdstzxt66be",
@@ -5830,6 +5886,14 @@
     "width": 1021,
     "height": 1021,
     "format": "png"
+  }]
+}, {
+  "name": "carrchain",
+  "icons": [{
+    "url": "ipfs://QmSyvufc8af7dFkZz4rEDxq4t7GYSX8YKYG69QvFRKiw7a",
+    "width": 250,
+    "height": 250,
+    "format": "svg"
   }]
 }, {
   "name": "edgen",
@@ -5944,6 +6008,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gensyn",
+  "icons": [{
+    "url": "ipfs://QmVqxZEAxThftDE2kVL7yQrBsU5ymLV39JPdWyaYtuVgzM",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "auroria",
   "icons": [{
     "url": "ipfs://QmNuQjnJ1JXkPRDwbFL1oZRpEaPhggPpccteAaxSPYBJJN",
@@ -6005,6 +6077,14 @@
     "url": "ipfs://bafkreihijckahzathexwzanldh4u4nm2wwrtus7bmbegmpc7hn4ivo5dn4",
     "width": 300,
     "height": 300,
+    "format": "png"
+  }]
+}, {
+  "name": "favo",
+  "icons": [{
+    "url": "ipfs://bafkreihyvpz6gwha2nvzbr4gun6cd523aiogqgfjr4q6agicmwgiildt2i",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -6805,6 +6885,14 @@
     "format": "png"
   }]
 }, {
+  "name": "jinglex",
+  "icons": [{
+    "url": "ipfs://bafkreiakif7wpa255imfkpjrxgycdomsght7eb2l6sp3y62idt6spggxvi",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "iorachain",
   "icons": [{
     "url": "ipfs://bafybeiehps5cqdhqottu2efo4jeehwpkz5rbux3cjxd75rm6rjm4sgs2wi",
@@ -6901,6 +6989,14 @@
     "format": "png"
   }]
 }, {
+  "name": "intuition",
+  "icons": [{
+    "url": "ipfs://QmQNvmur1LyzcuYr6PhCd1d9K8qa5yzGiowUw4x38pz3Qv",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "codex-testnet",
   "icons": [{
     "url": "ipfs://QmP9ehCr7SYf2e2kGhX7DX3WePUFyu8ACGZycPnKFBQeGs",
@@ -6963,6 +7059,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "parallax",
+  "icons": [{
+    "url": "ipfs://bafkreidmne3lmslz6srz4qhv4pxstkyt5lbfw6b3piiicpdle4okd74l3i",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
   }]
 }, {
   "name": "guntestnet",
@@ -8917,6 +9021,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "ptc",
+  "icons": [{
+    "url": "ipfs://bafkreifenn4ombmlmtf7kftai4v7aho5ulqiyob2elglqccak6p5zpa5em",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "lorenzo",
   "icons": [{
     "url": "ipfs://QmcwDCeZpzvRWBwtTgyEFv4tLJk6SFUb26rwsRXyJrhnP7",
@@ -9061,6 +9173,14 @@
     "format": "png"
   }]
 }, {
+  "name": "dotonechain",
+  "icons": [{
+    "url": "ipfs://QmRmQKK8ZQA7ohmQB97v9vJZZ67yERUnmQJBNYmNk1v6fj",
+    "width": 350,
+    "height": 350,
+    "format": "png"
+  }]
+}, {
   "name": "bifrost",
   "icons": [{
     "url": "ipfs://QmYxniqbiFD7nXBNjN8boUhoXYEAW23YquArD2Rnkq8WHS",
@@ -9138,6 +9258,14 @@
     "url": "ipfs://QmV5PVhxaT3ePRHYsH3aryEHin2c49W18xW3Xg4o171iYE",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "superaichain",
+  "icons": [{
+    "url": "ipfs://bafkreiendbioz6nnvlmwyv5zfqzsh2m5pdz47vrjlmhjve5vflk7yshyye",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
