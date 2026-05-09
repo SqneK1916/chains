@@ -4263,16 +4263,16 @@
   "faucets": [],
   "infoURL": "https://nutriemp.com"
 }, {
-  "name": "Boyaa Mainnet",
+  "name": "Boyaa",
   "chainId": 434,
   "shortName": "BYC",
   "networkId": 434,
   "nativeCurrency": {
-    "name": "Boyaa mainnet native coin",
+    "name": "Boyaa native coin",
     "symbol": "BYC",
     "decimals": 18
   },
-  "rpc": ["https://evm-rpc.mainnet.boyaa.network"],
+  "rpc": ["https://rpc.boyaa.network"],
   "faucets": [],
   "infoURL": "https://boyaa.network"
 }, {
@@ -8731,7 +8731,7 @@
     "symbol": "LCN",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.liquichain.io/rpc"],
   "faucets": [],
   "infoURL": "https://liquichain.io/"
 }, {
@@ -9307,6 +9307,32 @@
   "faucets": [],
   "infoURL": "https://sportschainnetwork.xyz"
 }, {
+  "name": "KWALA",
+  "chainId": 1905,
+  "shortName": "kwala",
+  "networkId": 1905,
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-ohio.kwala.network"],
+  "faucets": [],
+  "infoURL": "https://kwala.network"
+}, {
+  "name": "KWALA Stagenet",
+  "chainId": 1906,
+  "shortName": "kwala-stagenet",
+  "networkId": 1906,
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": ["https://qa-kwala-rpc-node.p2eppl.com"],
+  "faucets": [],
+  "infoURL": "https://kwala.network"
+}, {
   "name": "Bitcichain Mainnet",
   "chainId": 1907,
   "shortName": "bitci",
@@ -9345,6 +9371,19 @@
   "rpc": ["https://marklechain-rpc.merklescan.com"],
   "faucets": [],
   "infoURL": "https://merklescan.com"
+}, {
+  "name": "KWALA Devnet",
+  "chainId": 1910,
+  "shortName": "kwala-devnet",
+  "networkId": 1910,
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": ["https://dev-kwala-rpc-node.p2eppl.com"],
+  "faucets": [],
+  "infoURL": "https://kwala.network"
 }, {
   "name": "Scalind",
   "chainId": 1911,
@@ -13194,6 +13233,19 @@
   "faucets": [],
   "infoURL": "https://memecore.com"
 }, {
+  "name": "ILITY Mainnet",
+  "chainId": 4370,
+  "shortName": "ily",
+  "networkId": 4370,
+  "nativeCurrency": {
+    "name": "ILITY",
+    "symbol": "ILY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ility.xyz"],
+  "faucets": [],
+  "infoURL": "https://ility.xyz"
+}, {
   "name": "Credit Smart Chain Mainnet",
   "chainId": 4400,
   "shortName": "CreditEdge",
@@ -13661,6 +13713,19 @@
   "rpc": ["https://nollie-rpc.skatechain.org/"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Danny",
+  "chainId": 5069,
+  "shortName": "dan",
+  "networkId": 5069,
+  "nativeCurrency": {
+    "name": "Danny",
+    "symbol": "DAN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.dannyscan.com"],
+  "faucets": [],
+  "infoURL": "https://dannychain.com"
 }, {
   "name": "Pione Zero",
   "chainId": 5080,
@@ -18836,6 +18901,19 @@
   "faucets": [],
   "infoURL": "https://gravity.xyz"
 }, {
+  "name": "Intuition Testnet",
+  "chainId": 13579,
+  "shortName": "intuition-testnet",
+  "networkId": 13579,
+  "nativeCurrency": {
+    "name": "Testnet TRUST",
+    "symbol": "tTRUST",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.rpc.intuition.systems"],
+  "faucets": ["https://intuition-testnet.hub.caldera.xyz"],
+  "infoURL": "https://intuition.systems"
+}, {
   "name": "Kronobit Mainnet",
   "chainId": 13600,
   "shortName": "KNB",
@@ -22333,6 +22411,19 @@
   "faucets": [],
   "infoURL": "https://docs.robinhood.com/chain/"
 }, {
+  "name": "Gnodi Mainnet",
+  "chainId": 46634,
+  "shortName": "gnodi",
+  "networkId": 46634,
+  "nativeCurrency": {
+    "name": "Gnodi",
+    "symbol": "GNOD",
+    "decimals": 18
+  },
+  "rpc": ["https://evm.rpc.gnodi.zone"],
+  "faucets": [],
+  "infoURL": "https://gnodi.info"
+}, {
   "name": "Fusion Testnet",
   "chainId": 46688,
   "shortName": "tfsn",
@@ -23230,6 +23321,45 @@
   "faucets": ["https://www.thinkiumdev.net/faucet"],
   "infoURL": "https://thinkium.net/"
 }, {
+  "name": "EBLA Mainnet",
+  "chainId": 60186,
+  "shortName": "ebla",
+  "networkId": 60186,
+  "nativeCurrency": {
+    "name": "EBLA",
+    "symbol": "EBLA",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://eblanetwork.com"
+}, {
+  "name": "EBLA Testnet",
+  "chainId": 60187,
+  "shortName": "tebla",
+  "networkId": 60187,
+  "nativeCurrency": {
+    "name": "EBLA",
+    "symbol": "EBLA",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://eblanetwork.com"
+}, {
+  "name": "EBLA Devnet",
+  "chainId": 60188,
+  "shortName": "debla",
+  "networkId": 60188,
+  "nativeCurrency": {
+    "name": "EBLA",
+    "symbol": "EBLA",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://eblanetwork.com"
+}, {
   "name": "POTOS Testnet",
   "chainId": 60600,
   "shortName": "potos-testnet",
@@ -23749,6 +23879,19 @@
   "rpc": ["https://rpc.condrieu.ethdevops.io:8545"],
   "faucets": ["https://faucet.condrieu.ethdevops.io"],
   "infoURL": "https://condrieu.ethdevops.io"
+}, {
+  "name": "ILITY Testnet",
+  "chainId": 69923,
+  "shortName": "ilyt",
+  "networkId": 69923,
+  "nativeCurrency": {
+    "name": "ILITY Token",
+    "symbol": "ILYt",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.ility.xyz"],
+  "faucets": [],
+  "infoURL": "https://ility.xyz"
 }, {
   "name": "Thinkium Mainnet Chain 0",
   "chainId": 70000,
@@ -25007,7 +25150,7 @@
     "symbol": "INSAN",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc.jamiroqu.ai", "https://rpc.capitalexchange.digital"],
   "faucets": [],
   "infoURL": "https://www.jamiroqu.ai"
 }, {
@@ -30757,6 +30900,32 @@
   "faucets": [],
   "infoURL": "https://musicoin.tw"
 }, {
+  "name": "VALYGO Smart Contract",
+  "chainId": 7771777,
+  "shortName": "vyo",
+  "networkId": 7771777,
+  "nativeCurrency": {
+    "name": "VYO",
+    "symbol": "VYO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2t51dXsuxUvd9teY9TKEJmgxmxMk3CRF88UYTA4HQgjeYZqzSX/rpc"],
+  "faucets": [],
+  "infoURL": "https://vyochain.com"
+}, {
+  "name": "VALYGO NFT",
+  "chainId": 7773777,
+  "shortName": "vyonft",
+  "networkId": 7773777,
+  "nativeCurrency": {
+    "name": "VYO",
+    "symbol": "VYO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-gw-1.vyoscan.com/ext/bc/2RyzsmGypNQZPby1miwMMV8spTvhgd9qd2peNRzU1mErUQqSSw/rpc"],
+  "faucets": [],
+  "infoURL": "https://vyochain.com"
+}, {
   "name": "Zora",
   "chainId": 7777777,
   "shortName": "zora",
@@ -30782,6 +30951,19 @@
   "rpc": ["https://ozean-testnet.rpc.caldera.xyz/http", "wss://ozean-testnet.rpc.caldera.xyz/ws"],
   "faucets": ["https://ozean-testnet.hub.caldera.xyz"],
   "infoURL": "https://docs.ozean.finance"
+}, {
+  "name": "MAKI Chain",
+  "chainId": 8000008,
+  "shortName": "maki",
+  "networkId": 8000008,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.makiai.app"],
+  "faucets": [],
+  "infoURL": "https://makiai.app"
 }, {
   "name": "Plian Mainnet Subchain 1",
   "chainId": 8007736,
