@@ -3783,6 +3783,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sentrix",
+  "icons": [{
+    "url": "ipfs://QmRpzcXkEYAX4p7j7Qy9AdQdFhFH47WpGZKCohKM2DmYdy",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "fenine",
   "icons": [{
     "url": "ipfs://bafybeihcjllmkljni4jvveg4evgizmknisy4jyy3t3teuyzx6vypobrygm",
@@ -4268,6 +4276,14 @@
     "url": "ipfs://QmPAcZioXaoJd8vFRrqdj2cWXWkbSHoCPiyZH9ukncfvfg",
     "width": 150,
     "height": 150,
+    "format": "png"
+  }]
+}, {
+  "name": "helix",
+  "icons": [{
+    "url": "ipfs://bafkreibxputecqtqiyj7zh342joln47eivjxoweue7v6ac7numtnncepui",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
