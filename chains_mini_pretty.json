@@ -1776,7 +1776,7 @@
     "symbol": "POL",
     "decimals": 18
   },
-  "rpc": ["https://polygon.drpc.org", "wss://polygon.drpc.org", "https://rpc-mainnet.matic.quiknode.pro", "https://polygon-bor-rpc.publicnode.com", "wss://polygon-bor-rpc.publicnode.com", "https://polygon.gateway.tenderly.co", "wss://polygon.gateway.tenderly.co", "https://rpc.satelink.network/rpc/polygon"],
+  "rpc": ["https://polygon.drpc.org", "wss://polygon.drpc.org", "https://rpc-mainnet.matic.quiknode.pro", "https://polygon-bor-rpc.publicnode.com", "wss://polygon-bor-rpc.publicnode.com", "https://polygon.gateway.tenderly.co", "wss://polygon.gateway.tenderly.co", "https://rpc.satelink.network/rpc/polygon", "https://rpcfree.com/polygon-rpc"],
   "faucets": [],
   "infoURL": "https://polygon.technology/"
 }, {
@@ -13190,7 +13190,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.megaeth.com/rpc", "wss://mainnet.megaeth.com/ws"],
   "faucets": [],
   "infoURL": "https://megaeth.com"
 }, {
@@ -14665,16 +14665,16 @@
 }, {
   "name": "MegaETH Testnet",
   "chainId": 6343,
-  "shortName": "megatest",
+  "shortName": "megaeth-testnet",
   "networkId": 6343,
   "nativeCurrency": {
-    "name": "MegaETH Testnet Ether",
+    "name": "Ether",
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://carrot.megaeth.com/rpc", "wss://carrot.megaeth.com/ws"],
-  "faucets": [],
-  "infoURL": "https://testnet.megaeth.com"
+  "rpc": ["https://carrot.megaeth.com/rpc"],
+  "faucets": ["https://testnet.megaeth.com"],
+  "infoURL": "https://megaeth.com"
 }, {
   "name": "Digit Soul Smart Chain",
   "chainId": 6363,
@@ -16522,6 +16522,19 @@
   "faucets": [],
   "infoURL": "https://base.org"
 }, {
+  "name": "MYRX-MAINNET",
+  "chainId": 8472,
+  "shortName": "myrx",
+  "networkId": 8472,
+  "nativeCurrency": {
+    "name": "MyRx Token",
+    "symbol": "MRT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.myrxwallet.io"],
+  "faucets": [],
+  "infoURL": "https://myrxwallet.io"
+}, {
   "name": "Chakra Testnet",
   "chainId": 8545,
   "shortName": "ChakraTN",
@@ -16599,6 +16612,19 @@
   "rpc": ["https://auto-evm.chronos.autonomys.xyz/ws"],
   "faucets": [],
   "infoURL": "https://www.autonomys.xyz"
+}, {
+  "name": "EB-Chain",
+  "chainId": 8721,
+  "shortName": "ebc",
+  "networkId": 8721,
+  "nativeCurrency": {
+    "name": "EBC",
+    "symbol": "EBC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.ebcscan.net"],
+  "faucets": ["https://ebcscan.net/faucet"],
+  "infoURL": "https://ebcscan.net"
 }, {
   "name": "TOOL Global Mainnet",
   "chainId": 8723,
@@ -25206,7 +25232,7 @@
   "faucets": [],
   "infoURL": "https://unite.io"
 }, {
-  "name": "JAMIROQU.AI",
+  "name": "INSAN",
   "chainId": 89001,
   "shortName": "insan",
   "networkId": 89001,
@@ -25215,9 +25241,9 @@
     "symbol": "INSAN",
     "decimals": 18
   },
-  "rpc": ["https://rpc.jamiroqu.ai", "https://rpc.capitalexchange.digital"],
+  "rpc": [],
   "faucets": [],
-  "infoURL": "https://www.jamiroqu.ai"
+  "infoURL": ""
 }, {
   "name": "Pundi AIFX Omnilayer Testnet",
   "chainId": 90001,
@@ -31390,7 +31416,7 @@
     "symbol": "OFC",
     "decimals": 18
   },
-  "rpc": ["https://rpc.onfachain.com", "https://rpc.onfachain.net", "wss://ws.onfachain.com", "wss://ws.onfachain.net"],
+  "rpc": ["https://rpc.onfachain.com", "https://rpc.onfachain.net", "https://main.onfachain.net", "wss://ws.onfachain.com", "wss://ws.onfachain.net"],
   "faucets": [],
   "infoURL": "https://onfachain.com"
 }, {
@@ -32238,6 +32264,19 @@
   "rpc": ["https://rpc.testnet.frame.xyz/http"],
   "faucets": ["https://faucet.triangleplatform.com/frame/testnet"],
   "infoURL": "https://www.frame.xyz/"
+}, {
+  "name": "Cryptos Testnet Beta",
+  "chainId": 77777777,
+  "shortName": "cryptos-testnet-beta",
+  "networkId": 77777777,
+  "nativeCurrency": {
+    "name": "Cryptos",
+    "symbol": "CRPTOS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet-beta-evm.cryptos.com"],
+  "faucets": [],
+  "infoURL": "https://cryptos.com"
 }, {
   "name": "0xHash Testnet",
   "chainId": 77787778,
@@ -33604,18 +33643,18 @@
   "faucets": ["https://faucet.pectra-devnet-5.ethpandaops.io"],
   "infoURL": "https://pectra-devnet-5.ethpandaops.io"
 }, {
-  "name": "ONFA Chain",
+  "name": "ONFA Chain Testnet",
   "chainId": 8691942025,
-  "shortName": "onfa",
+  "shortName": "onfatestnet",
   "networkId": 8691942025,
   "nativeCurrency": {
-    "name": "Onfa Coin",
-    "symbol": "OFC",
+    "name": "ONFA Coin",
+    "symbol": "OFCT",
     "decimals": 18
   },
-  "rpc": ["https://rpc.onfa.io", "https://rpc.onfachain.com", "wss://ws.onfa.io", "wss://ws.onfachain.com"],
+  "rpc": ["https://rpc-testnet.onfachain.com", "https://rpc-testnet.onfachain.net", "wss://ws-testnet.onfachain.com", "wss://ws-testnet.onfachain.net"],
   "faucets": [],
-  "infoURL": "https://onfa.io"
+  "infoURL": "https://onfachain.com"
 }, {
   "name": "Palm Testnet",
   "chainId": 11297108099,
